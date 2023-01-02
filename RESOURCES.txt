@@ -1,0 +1,13 @@
+
+There are a lot of great resources and guides but it is sometimes discouraging and over your head.
+
+- To set up your api certificate(?) go to https://developer.spotify.com/dashboard/applications in the cred.py file
+- To see all the various methods go to https://developer.spotify.com/console/get-track/?id=c329aecee6e64317bd361dd113bc7811&market=US and look around
+- Very helpful to understand how to use the spotify methods https://vishsubramanian.me/spotify-reccs/
+- Attributes of songs https://community.alteryx.com/t5/Engine-Works/Getting-Audio-Features-From-the-Spotify-API/ba-p/467811
+- Another guide to get local host running https://www.youtube.com/watch?v=3RGm4jALukM
+- Get and Post requests in python (very helpful) https://www.geeksforgeeks.org/get-post-requests-using-python/
+
+Advice: 
+My main hang up were setting up a redirect url (which uses as server to do the requests from my understanding)
+Use the url I put in the cred.py file because it just runs on your machine and honestly, if it works it's fine by me.
